@@ -52,3 +52,5 @@ Estas plataformas constituyen la **competencia directa** de *PsyAI Connect*, por
 
 **PsyAI Connect** busca **fusionar tecnología e inteligencia artificial** con la **psicología moderna**, ofreciendo una plataforma que prioriza la **salud mental**, la **confidencialidad** y la **conexión humana**.  
 Su propósito es **facilitar el acceso a la ayuda psicológica**, **automatizar la detección de problemas emocionales** y **optimizar el proceso de conexión entre usuario y profesional**.
+
+![PsyAI Connect Logo](assets/psy.png)
